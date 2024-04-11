@@ -1,1 +1,1 @@
-A list of project I completed as class assignments during my undergrad.
+A list of projects I completed as class assignments during my undergrad.
